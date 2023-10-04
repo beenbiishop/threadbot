@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brunolemos/threadbot.git"
+    "url": "git+https://github.com/beenbiishop/threadbot.git"
   },
   "keywords": [
     "thread",
@@ -15,9 +15,9 @@
     "slack"
   ],
   "bugs": {
-    "url": "https://github.com/brunolemos/threadbot/issues"
+    "url": "https://github.com/beenbiishop/threadbot/issues"
   },
-  "homepage": "https://github.com/brunolemos/threadbot#readme",
+  "homepage": "https://github.com/beenbiishop/threadbot#readme",
   "scripts": {
     "build": "npm run build-ts && npm run tslint",
     "build-ts": "tsc",
